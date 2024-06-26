@@ -2,33 +2,40 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jorik Daniël (JD) Elberse
+Doctoral Student of Neuroscience.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://www.linkedin.com/in/jd-elberse/">My LinkedIn</a>
+| <a href="https://orcid.org/0009-0009-7942-7771">My ORCID</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Investigating the influence of sleep disturbance on the development of Alzheimer's disease
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Academic writing, project management, big data analysis, machine learning
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Sleep, memory, dementia, brain waste clearance.
 
+## Employment
+
+`Oct 2022 - Current`
+__Heinrich Heine University, Düsseldorf, Germany.__
+
+`Oct 2022 - Current`
+__Research Center Jülich, Jülich, Germany.__
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2021 - Current`
+__PhD Neuroscience, Max Planck School of Cognition, Leipzig.__
 
 `June 1661 - now`
 __Trinity College, Cambridge__

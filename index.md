@@ -8,6 +8,7 @@ Doctoral Student of Neuroscience.
 <div id="webaddress">
 <a href="https://www.linkedin.com/in/jd-elberse/">LinkedIn</a>
 | <a href="https://orcid.org/0009-0009-7942-7771">ORCID</a>
+| <a href="https://scholar.google.com/citations?hl=en&user=wYH4l-oAAAAJ">Google Scholar</a>
 </div>
 
 

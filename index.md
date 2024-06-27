@@ -6,8 +6,8 @@ title: Isaac Newtons's CV
 Doctoral Student of Neuroscience.
 
 <div id="webaddress">
-<a href="https://www.linkedin.com/in/jd-elberse/">My LinkedIn</a>
-| <a href="https://orcid.org/0009-0009-7942-7771">My ORCID</a>
+<a href="https://www.linkedin.com/in/jd-elberse/">LinkedIn</a>
+| <a href="https://orcid.org/0009-0009-7942-7771">ORCID</a>
 </div>
 
 
@@ -74,10 +74,8 @@ VSBfonds Scholarship, VSBfonds, Utrecht, The Netherlands
 ### Journals
 
 `2024`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
+__SLEEP__
+Elberse, Jorik D., et al. "The interplay between insomnia and Alzheimer Disease across three main brain networks."
 
 ### Preregistrations
 

@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: JD's CV
 ---
 # Jorik Daniël (JD) Elberse
 Doctoral Student of Neuroscience.
@@ -75,13 +75,15 @@ VSBfonds Scholarship, VSBfonds, Utrecht, The Netherlands
 
 `2024`
 __SLEEP__
-Elberse, Jorik D., et al. "The interplay between insomnia and Alzheimer Disease across three main brain networks."
+
+- Elberse, Jorik D., et al. "The interplay between insomnia and Alzheimer Disease across three main brain networks."
 
 ### Preregistrations
 
 `2023`
 __OSF__
-Elberse, Jorik Daniël, et al. "Assessing the effect of total and partial sleep deprivation on glymphatic indices using the ENIGMA-Sleep cohorts."
+
+- Elberse, Jorik Daniël, et al. "Assessing the effect of total and partial sleep deprivation on glymphatic indices using the ENIGMA-Sleep cohorts."
 
 <!-- ### Footer
 

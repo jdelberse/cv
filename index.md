@@ -26,73 +26,67 @@ Sleep, memory, dementia, brain waste clearance.
 
 ## Employment
 
-`Oct 2022 - Current`
+`Oct 2022 - now`
 __Heinrich Heine University, Düsseldorf, Germany.__
 
-`Oct 2022 - Current`
+- Doctoral Student
+
+`Oct 2022 - now`
 __Research Center Jülich, Jülich, Germany.__
+
+- Doctoral Student
 
 ## Education
 
-`Sep 2021 - Current`
-__PhD Neuroscience, Max Planck School of Cognition, Leipzig.__
+`Sep 2021 - now`
+__Max Planck School of Cognition, Leipzig, Germany.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- PhD Neuroscience
 
-- Sizar
+`Sep 2019 - Dec 2020`
+__University College London, London, UK__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- MRes Biosciences: Neuroscience
+- Graduated with distinction
 
-- Fellow
+`Sep 2015 - Aug 2018`
+__University College Utrecht, Utrecht, The Netherlands__
 
+- BSc Liberal Arts and Sciences
+- Major: Cognitive Neuroscience and Molecular Cell Biology
+- Graduated with 3.87/4 CGPA (Summa Cum Laude)
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2020`
+Dean's List, University College London, London, UK
 
-Associate, *French Academy of Science*, Paris, France
+`2019`
+VSBfonds Scholarship, VSBfonds, Utrecht, The Netherlands
 
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+<!-- A list is also available [online](https://scholar.google.com/citations?hl=en&user=wYH4l-oAAAAJ) -->
 
 ### Journals
 
-`1669`
+`2024`
 Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
 
 `1669`
 Lectiones opticæ.
 
-etc. etc. etc.
+### Preregistrations
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+`2023`
+__OSF__
+Elberse, Jorik Daniël, et al. "Assessing the effect of total and partial sleep deprivation on glymphatic indices using the ENIGMA-Sleep cohorts."
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: June 2024 -->
 
 

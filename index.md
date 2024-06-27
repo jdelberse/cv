@@ -26,31 +26,36 @@ Sleep, memory, dementia, brain waste clearance.
 
 ## Employment
 
-`Oct 2022 - now`
+`2022 - now`
 __Heinrich Heine University, Düsseldorf, Germany.__
 
 - Doctoral Student
 
-`Oct 2022 - now`
+`2022 - now`
 __Research Center Jülich, Jülich, Germany.__
 
 - Doctoral Student
 
+`2020 - 2021`
+__Netherlands Institute of Neuroscience, Amsterdam, The Netherlands.__
+
+- Research Assistant
+
 ## Education
 
-`Sep 2021 - now`
+`2021 - now`
 __Max Planck School of Cognition, Leipzig, Germany.__
 
 - PhD Neuroscience
 
-`Sep 2019 - Dec 2020`
-__University College London, London, UK__
+`2019 - 2020`
+__University College London, London, UK.__
 
 - MRes Biosciences: Neuroscience
 - Graduated with distinction
 
-`Sep 2015 - Aug 2018`
-__University College Utrecht, Utrecht, The Netherlands__
+`2015 - 2018`
+__University College Utrecht, Utrecht, The Netherlands.__
 
 - BSc Liberal Arts and Sciences
 - Major: Cognitive Neuroscience and Molecular Cell Biology

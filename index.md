@@ -74,12 +74,12 @@ VSBfonds Scholarship, VSBfonds, Utrecht, The Netherlands
 ### Journals
 
 `2024`
-Elberse, Jorik D., et al. "The interplay between insomnia and Alzheimer Disease across three main brain networks." *SLEEP* (Accepted, unpublished).
+Elberse, Jorik D., et al. "The interplay between insomnia and Alzheimer Disease across three main brain networks." _SLEEP_ (Accepted, unpublished).
 
 ### Preregistrations
 
 `2023`
-Elberse, Jorik Daniël, et al. "Assessing the effect of total and partial sleep deprivation on glymphatic indices using the ENIGMA-Sleep cohorts."
+Elberse, Jorik Daniël, et al. "Assessing the effect of total and partial sleep deprivation on glymphatic indices using the ENIGMA-Sleep cohorts." _OSF_
 
 <!-- ### Footer
 

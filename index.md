@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: JD's CV
 ---
 # Jorik Daniël (JD) Elberse
 Doctoral Student of Neuroscience.
